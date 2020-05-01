@@ -3,7 +3,7 @@ const app = express();
 const mongoose = require("mongoose");
 
 const { MONGOURI } = require("./keys");
-const PORT = 3215;
+const PORT = 3250;
 
 require("./models/user");
 
