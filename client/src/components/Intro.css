@@ -1,0 +1,12 @@
+.slogan {
+  color: rgb(222, 148, 88);
+}
+.caption h3 {
+  color: rgb(37, 134, 141);
+}
+.slider .indicators .indicator-item {
+  background-color: rgb(223, 229, 230);
+}
+.slider  .indicator-item :active {
+  background-color: rgb(150, 216, 228);
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.nav-wrapper {
+  background-color: white;
+}
+.nav-wrapper a {
+  color: rgb(5, 18, 71);
+}
+.brand-logo,h2 {
+  font-family: "Lobster", cursive;
+  color: rgb(5, 18, 71)
+}

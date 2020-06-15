@@ -1,0 +1,30 @@
+.profile {
+  display: flex;
+  margin: 40px 50px;
+  border-bottom: solid 3px gray;
+  
+}
+.chef {
+  border-radius: 50%;
+  width: 200px;
+  height: auto;
+  margin: 20px 
+}
+.Prfl-description{
+    display: flex;
+    flex-direction: column;
+}
+.Prfl-description h4 {
+    font-size: small;
+}
+.published-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 10px;
+}
+.item {
+  border-radius: 10px;
+  max-width: 250px;
+  height: 250px;
+}

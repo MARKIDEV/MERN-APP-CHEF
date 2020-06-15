@@ -1,0 +1,20 @@
+{
+  "name": "mern-app-chef",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MARKIDEV/MERN-APP-CHEF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MARKIDEV/MERN-APP-CHEF/issues"
+  },
+  "homepage": "https://github.com/MARKIDEV/MERN-APP-CHEF#readme"
+}
